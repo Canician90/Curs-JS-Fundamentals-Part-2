@@ -369,7 +369,7 @@ from the method
 respective BMI. Example: "John's BMI (28.3) is higher than Mark's (23.9)!"
 Test data: Marks weights 78 kg and is 1.69 m tall. John weights 92 kg and is 1.95 m 
 tall.*/
-
+/*
 const mark = {
     fullName: 'Mark Miller',
     mass: 78,
@@ -403,4 +403,4 @@ if (mark.bmi > john.bmi) {
     console.log(`${john.fullName}'s BMI (${john.bmi})
      is higher than ${mark.fullName}'s BMI (${mark.bmi})`)
 
-}
+}*/
